@@ -9,9 +9,8 @@ Python 學習歷程
 ---
 設置目錄連結：[github-markdown-toc](https://github.com/ekalinin/github-markdown-toc#installation)
 
-:::danger
-現在電腦使用 windows，日後更新
-:::
+
+> 現在電腦使用 windows，日後更新
 
 [TOC]
 
