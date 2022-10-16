@@ -6,8 +6,11 @@ Python 學習歷程
 
 推薦學習網站：[Python 慣用語](http://seanlin.logdown.com/)
 
+---
+
 [TOC]
 
+---
 ## 命名規則與命名風格
 遵守規範：[PEP8 – Style Guide for Python Code](https://peps.python.org/pep-0008/)
 | 對象     | 風格範例                        | 說明                              |
