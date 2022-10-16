@@ -7,6 +7,11 @@ Python 學習歷程
 推薦學習網站：[Python 慣用語](http://seanlin.logdown.com/)
 
 ---
+設置目錄連結：[github-markdown-toc](https://github.com/ekalinin/github-markdown-toc#installation)
+
+:::danger
+現在電腦使用 windows，日後更新
+:::
 
 [TOC]
 
