@@ -1,8 +1,8 @@
-# Python Portfolio
+# python coding style
 
-###### tags: `Python`
+###### tags: `python`
 
-[Python 學習記錄歷程](https://hackmd.io/@zz8yeJXcQYOjqL6CsPNdlg/ByYht7YQi)
+[python coding HackMD](https://hackmd.io/@zz8yeJXcQYOjqL6CsPNdlg/ByYht7YQi)
 
 推薦學習網站：[Python 慣用語](http://seanlin.logdown.com/)
 
